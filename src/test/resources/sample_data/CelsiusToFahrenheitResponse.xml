@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CelsiusToFahrenheitResponse xmlns="https://www.w3schools.com/xml/">
+    <CelsiusToFahrenheitResult>86</CelsiusToFahrenheitResult>
+</CelsiusToFahrenheitResponse>

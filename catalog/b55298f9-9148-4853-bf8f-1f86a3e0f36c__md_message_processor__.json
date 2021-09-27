@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "Web_Service_Consumer",
+            "typeId": "CelsiusToFahrenheitResponse"
+        }
+    },
+    "outputMessageMetadata": {},
+    "id": "b55298f9-9148-4853-bf8f-1f86a3e0f36c",
+    "version": "5.2.0.0"
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns0:CelsiusToFahrenheitResponse xmlns:ns0="https://www.w3schools.com/xml/">
+  <ns0:CelsiusToFahrenheitResult>????</ns0:CelsiusToFahrenheitResult>
+</ns0:CelsiusToFahrenheitResponse>
